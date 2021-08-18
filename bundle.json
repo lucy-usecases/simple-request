@@ -1,0 +1,11 @@
+{
+    "id":"e1331fc4-4063-4a4e-c35b-ee440c42c86e",
+    "author":"eutech",
+    "widgets":[
+        {
+            "id":"simple-request",
+            "title":"Simple Request",
+            "description":"A UI to accept a simple request or complaint from a user"
+        }
+    ]
+}

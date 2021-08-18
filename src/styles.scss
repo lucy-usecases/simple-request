@@ -1,0 +1,30 @@
+.simple-request textarea.sr {
+    width: 100%;
+    height: auto;
+    border: none;
+    outline: none;
+    padding: 15px 20px;
+    border-radius: 10px;
+    font-size: 12px;
+    color: #424242;
+    background-color: #f8f8f8;
+    transition: 0.3s transform cubic-bezier(0.155, 1.105, 0.295, 1.12), 0.3s box-shadow, 0.3s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12); }
+  
+  .simple-request .modal-panel {
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTU5OSIgaGVpZ2h0PSIyNTcuODkiIHZpZXdCb3g9IjAgMCAxNTk5IDI1Ny44OSI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeDE9IjAuMjc4IiB5MT0iLTAuMTA0IiB4Mj0iMC44ODUiIHkyPSIwLjY2NyIgZ3JhZGllbnRVbml0cz0ib2JqZWN0Qm91bmRpbmdCb3giPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM1NzUyYzkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYzk1MjdiIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cGF0aCBpZD0iUGF0aF8xMzY2MCIgZGF0YS1uYW1lPSJQYXRoIDEzNjYwIiBkPSJNMC0xMzguMjA2UzQ4LjA3Miw0MS45NjEsMzQ1LjcxMiwxNS4yODVzNjIxLjU3OCw5MC42NzMsODc0LjMzNCw2NC40MzRTMTU5OS0yOC4zODYsMTU5OS0yOC4zODZ2MTQ4LjA3SDBaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDEzOC4yMDYpIiBmaWxsPSJ1cmwoI2xpbmVhci1ncmFkaWVudCkiLz4KPC9zdmc+Cg==);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: contain; }
+
+.simple-request-button {
+    flex:1;
+    .icon {
+        background-image: url(https://static.iviva.com/images/lift_widget/pending_requests.svg);
+        width:33%;
+        height:33%;
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        
+    }
+}
