@@ -1,0 +1,10 @@
+{
+    "title": "Simple Request",
+    "tags": [
+        "fm",
+        "ui"
+    ],
+    "version": "1.1.0",
+    "public": true,
+    "connectorsRequired": []
+}

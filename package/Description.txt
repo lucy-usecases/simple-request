@@ -1,0 +1,4 @@
+# Simple User Request
+
+This use case provides a simple widget and dialog that allows a user to provide a subject and description that will be fed to a backend system for further processing.
+
